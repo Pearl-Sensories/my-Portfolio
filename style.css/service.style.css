@@ -51,7 +51,7 @@ list-style-type: none;
     }
 
 .roll-in-left{
-    background-image: url(/images/image8.png);
+    background-image: url(../images/image8.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -384,7 +384,7 @@ list-style-type: none;
     }
 
     .sub-background2{
-    background-image: url(/images/image10.png);
+    background-image: url(../images/image10.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
