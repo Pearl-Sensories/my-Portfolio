@@ -30,7 +30,7 @@
 .lists{
     list-style-type: none;
     display: flex;
-    gap: 80px; 
+    gap: 60px; 
     margin-left: 100px;
     color: rgb(189, 6, 36);
     padding-top: 10px;
